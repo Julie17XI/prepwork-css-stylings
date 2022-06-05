@@ -1,37 +1,37 @@
 h1 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    text-decoration: ;
-    color: ;
-    background-color: ;
+    font-size: 1.5em;
+    font-family: "Times New Roman", serif;
+    padding: 1em 3.5rem 1em;
+    margin: 10% 73% 0 0;
+    font-weight: 100;
+    color: white;
+    background-color: rgb(153,102,153);
 }
 
 h2 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    color: ;
-    background-color: ;
+    font-size: 3.5em;
+    font-family: fantasy;
+    padding: 2rem 3.5rem 1rem;
+    margin: 3rem 0 2rem;
+    font-weight: 900;
+    color: black;
+    background-color: rgb(246, 240, 240);
 }
 
 p {
-    font-family: ;
-    font-size: ;
-    padding: ;
-    margin: ;
-    color: ;
+    font-family: cursive;
+    font-size: 1.5rem;
+    padding: 0 3.5rem 1rem;
+    margin: 0;
+    color: black;
     background-color: ;
 }
 
 .logo {
     background-size: cover;
-    background-image: url();
-    background-color: ;
-    height: ;
-    width: ;
+    background-image: url("Watercolor-Feather.png");
+    margin: 0 10% 0 80%;
+    background-color:transparent;
+    height: 20em;
+    width: 15em;
 }
